@@ -17,7 +17,7 @@
     &kp LCTL   &mo 1      &kp LCMD   &kp LARW   &kp RARW                                               &kp UARW   &kp DARW   &kp LBKT   &kp RBKT   &kp RCTL
                                                            &none      &none      &none      &none
                                                                       &none      &none
-                                                &kp SPC    &LALT                            &kp TAB   &kp RET
+                                                &kp SPC    &kp LALT                            &kp TAB   &kp RET
                                                                       &none      &none
                         >;
                 };
